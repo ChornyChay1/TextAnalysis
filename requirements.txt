@@ -2,3 +2,4 @@ pandas>=2.0,<3
 scikit-learn>=1.4,<2
 matplotlib>=3.8,<4
 nltk>=3.9,<4
+notebook>=7,<8
